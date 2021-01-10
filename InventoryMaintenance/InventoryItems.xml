@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+    <Item>
+        <ItemNo>1</ItemNo>
+        <Description>The Legend of Zelda: Breath of the Wild</Description>
+        <Price>59.99</Price>
+    </Item>
+    <Item>
+        <ItemNo>2</ItemNo>
+        <Description>Super Mario Odyssey</Description>
+        <Price>59.99</Price>
+    </Item>
+    <Item>
+        <ItemNo>3</ItemNo>
+        <Description>Mario Kart 8 Deluxe</Description>
+        <Price>49.99</Price>
+    </Item>
+</Items>
